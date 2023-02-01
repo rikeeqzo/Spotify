@@ -16,5 +16,5 @@ body {
 /* Barra de navegação
 ------------------------*/
 nav.navbar-transparente {
-    
+    background: rgba(0,0,0,0.6);
 }
