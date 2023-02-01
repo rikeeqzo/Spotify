@@ -19,3 +19,7 @@ nav.navbar-transparente {
     padding: 15px 0px;
     background: rgba(0,0,0,0.6);
 }
+
+.navbar-nav .nav-link {
+    color: red;
+}
