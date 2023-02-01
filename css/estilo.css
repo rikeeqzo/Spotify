@@ -16,5 +16,6 @@ body {
 /* Barra de navegação
 ------------------------*/
 nav.navbar-transparente {
+    padding: 15px 0px;
     background: rgba(0,0,0,0.6);
 }
