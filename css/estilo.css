@@ -20,6 +20,6 @@ nav.navbar-transparente {
     background: rgba(0,0,0,0.6);
 }
 
-.navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link {
     color: red;
 }
