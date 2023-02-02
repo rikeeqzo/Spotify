@@ -27,3 +27,8 @@ nav.navbar-transparente {
 .navbar-light .navbar-nav .nav-link:hover {
     color: #9bf0e1;
 }
+
+.navbar-light .navbar-toggler {
+    color: rgba(0,0,0.5);
+    border-color: rgba(0,0,0,.1);
+}
