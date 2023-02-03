@@ -8,10 +8,6 @@ html, body, #home {
     height: 100%;
 }
 
-#home {
-    border:  1px solid red;
-}
-
 body {
     background: url(../imagens/capa.png),
                 url(../imagens/ruido.png),
@@ -44,4 +40,19 @@ nav.navbar-transparente {
     width: 1px;
     background: white;
     margin: 12px 15px;
+}
+
+/* Capa
+------------------------*/
+.capa {
+    text-align: center;
+}
+
+/* Tipografia
+------------------------*/
+h1 {
+    font-weight: 900;
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+    color: white    ;
 }
