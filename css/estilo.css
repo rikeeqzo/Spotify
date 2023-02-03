@@ -5,8 +5,8 @@
 
 /* Layout
 ------------------------*/
-body {
-    border: 1px solid red;
+html, body {
+    height: 100%;
 }
 
 body {
