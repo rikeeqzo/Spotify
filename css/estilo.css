@@ -122,6 +122,7 @@ nav.navbar-transparente {
 footer {
     background: #000;
     padding: 50px 0px 20px 0;
+    position: relative;
 }
 
 /* Tipografia
