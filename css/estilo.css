@@ -6,6 +6,7 @@
 ------------------------*/
 html, body, #home {
     height: 100%;
+    overflow-x: hidden;
 }
 
 body {
