@@ -117,6 +117,13 @@ nav.navbar-transparente {
     padding-left: 80px;
 }
 
+/* Rodapé
+------------------------*/
+footer {
+    background: #000;
+    padding: 50px 0px 20px 0;
+}
+
 /* Tipografia
 ------------------------*/
 h1 {
