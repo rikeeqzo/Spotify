@@ -136,6 +136,11 @@ footer .navbar-nav a {
     font-size: 0.8em;
 }
 
+footer .navbar-nav a:hover {
+    color: #9bf0e1;
+    text-decoration: none;
+}
+
 /* Tipografia
 ------------------------*/
 h1 {
