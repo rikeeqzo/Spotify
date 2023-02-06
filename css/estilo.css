@@ -125,6 +125,17 @@ footer {
     position: relative;
 }
 
+footer h4 {
+    color: #919496;
+    font-size: 0.8em;
+    text-transform: uppercase;
+}
+
+footer .navbar-nav a {
+    color: white;
+    font-size: 0.8em;
+}
+
 /* Tipografia
 ------------------------*/
 h1 {
