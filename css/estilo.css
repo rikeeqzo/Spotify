@@ -49,6 +49,73 @@ nav.navbar-transparente {
     text-align: center;
 }
 
+.btn-custom {
+    color: white;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    transition: background 0.4s, color 0.4s;
+    padding: 10px 20px;
+}
+
+.btn-roxo {
+    background: #7c25f8;
+}
+
+.btn-roxo:hover {
+    background: #6207e3;
+    color: white;
+}
+
+
+.btn-branco {
+    border: 2px solid white;
+}
+
+.btn-branco:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Estrutura conteúdos
+------------------------------*/
+
+.caixa {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#servicos {
+    background: white;
+}
+
+#recursos {
+    color: white;
+}
+
+#servicos h2, h3 {
+    color: #7c25f8;
+}
+
+#recursos h2 {
+    color: white;
+}
+
+#recursos h3 {
+    color: #9bf0e1;
+}
+
+.albuns {
+    padding: 10px 0;
+}
+
+.rotacionar {
+    -ms-transform: rotate(30deg);/* IE 9*/
+    -webkit-transform: rotate(30deg);/* Chrome, Safari, opera */
+    transform: rotate(30deg);
+    padding-left: 80px;
+}
+
 /* Tipografia
 ------------------------*/
 h1 {
@@ -57,3 +124,55 @@ h1 {
     margin-bottom: 50px;
     color: white    ;
 }
+
+h2 {
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .btn-custom {
+        margin: 10px 15px;
+    }
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    h1 {
+        font-size: 3em;
+    }
+    .btn-custom {
+        margin: 10px 15px;
+    }
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    h1 {
+        font-size: 4em;
+    }
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    h1 {
+        font-size: 5em;
+    }
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+    h1 {
+        font-size: 6em;
+    }
+ }
