@@ -44,6 +44,15 @@ nav.navbar-transparente {
     margin: 12px 15px;
 }
 
+#logo {
+    padding: 10px;
+}
+
+#nav-principal {
+    padding: 10px;
+}
+
+
 /* Capa
 ------------------------*/
 .capa {
