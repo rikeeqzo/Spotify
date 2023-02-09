@@ -122,6 +122,12 @@ nav.navbar-transparente {
     padding: 10px 0;
 }
 
+.rotacionar {
+    -ms-transform: rotate(30deg);/* IE 9*/
+    -webkit-transform: rotate(30deg);/* Chrome, Safari, opera */
+    transform: rotate(30deg);
+    padding-left: 80px;
+}
 
 
 /* Rodapé
