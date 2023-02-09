@@ -72,24 +72,7 @@ nav.navbar-transparente {
     background: #7c25f8;
 }
 
-.btn-roxo:hover {
-    background: #6207e3;
-    color: white;
-}
 
-
-.btn-branco {
-    border: 2px solid white;
-}
-
-.btn-branco:hover {
-    background-color: white;
-    color: black;
-}
-
-.carousel-control-next, .carousel-control-prev {
-    width: 5%;
-}
 
 /* Estrutura conteúdos
 ------------------------------*/
