@@ -86,6 +86,10 @@ nav.navbar-transparente {
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
 /* Estrutura conteúdos
 ------------------------------*/
 
@@ -123,7 +127,6 @@ nav.navbar-transparente {
     transform: rotate(30deg);
     padding-left: 80px;
 }
-
 
 /* Rodapé
 ------------------------*/
