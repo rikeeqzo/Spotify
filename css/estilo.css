@@ -72,6 +72,10 @@ nav.navbar-transparente {
     background: #7c25f8;
 }
 
+.btn-roxo:hover {
+    background: #6207e3;
+    color: white;
+}
 
 
 /* Estrutura conteúdos
