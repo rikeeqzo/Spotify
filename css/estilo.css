@@ -77,6 +77,14 @@ nav.navbar-transparente {
     color: white;
 }
 
+.btn-branco {
+    border: 2px solid white;
+}
+
+.btn-branco:hover {
+    background-color: white;
+    color: black;
+}
 
 /* Estrutura conteúdos
 ------------------------------*/
