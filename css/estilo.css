@@ -114,20 +114,7 @@ nav.navbar-transparente {
     color: white;
 }
 
-#recursos h3 {
-    color: #9bf0e1;
-}
 
-.albuns {
-    padding: 10px 0;
-}
-
-.rotacionar {
-    -ms-transform: rotate(30deg);/* IE 9*/
-    -webkit-transform: rotate(30deg);/* Chrome, Safari, opera */
-    transform: rotate(30deg);
-    padding-left: 80px;
-}
 
 /* Rodapé
 ------------------------*/
