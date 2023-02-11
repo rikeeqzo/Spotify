@@ -17,7 +17,12 @@ body {
     font-family: Helvetica,Arial,sans-serif;
 }
 
-
+/* Barra de navegação
+------------------------*/
+nav.navbar-transparente {
+    padding: 15px 10px;
+    background: rgba(0,0,0,0.6);
+}
 
 .navbar-light .navbar-nav .nav-link {
     color: white;
